@@ -13,7 +13,7 @@
  |  __ \             (_)   |   |       Game: PopItTrading 
  | |__) |    __ _    |_|   |   |       Credits: Spxlz
  |  ___/    / _` |   | |  / _` |       Status: Unpatched
- | |       | (_| |   | | | (_| |       Version: FREE
+ | |       | (_| |   | | | (_| |       Version: PAID
  |_|        \__,_|   |_|  \__,_|
              
 
