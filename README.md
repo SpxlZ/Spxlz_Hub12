@@ -2,8 +2,11 @@
 • Pet Trading 🐾 (Paid Access)
 • Pop It Trading ✨️ (FREE)
 
+
+
   Another One But Paid:
 • Pop It Trading (Paid Access)
+
 
 
 # 🎃 pop it trading features (FREE)
@@ -15,6 +18,8 @@
 • Teleports
 • Redeem All Codes (With Notify)
 • Extra Functions
+
+
 
 # 🐈 pet trading features (Paid)
 • Auto Dupe
