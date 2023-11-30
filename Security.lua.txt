@@ -1,2 +1,0 @@
--- Security Mode (UPDATED)
-loadstring(game:HttpGet("https://raw.githubusercontent.com/SpxlZ/Spxlz_Hub12/main/RayX.lua"))()
