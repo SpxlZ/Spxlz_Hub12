@@ -1,7 +1,7 @@
-# 🎮 Support Games
+## 🎮 Support Games
 • Pet Trading 🐾 (Paid Access)
 • Pop It Trading ✨️ (FREE)
-
+<br/>
 
 
   Another One But Paid:
@@ -9,7 +9,7 @@
 
 
 
-# 🎃 pop it trading features (FREE)
+## 🎃 pop it trading features (FREE)
 • Auto Buy
 • Auto Sell
 • Auto Drop
